@@ -2,7 +2,7 @@
 
 The two script files are associated with the paper:
 
-I. Kopriva and D. Sersic, "Subspace clustering in wavelet packets domain," arXiv??? 
+I. Kopriva and D. Sersic, "Subspace clustering in wavelet packets domain," [arXiv](http://arxiv.org/abs/2406.03819) 
 
 ------------------------------------------------------
 You can try WP-MERA based subspace clustering on chosen dataset by running the script
